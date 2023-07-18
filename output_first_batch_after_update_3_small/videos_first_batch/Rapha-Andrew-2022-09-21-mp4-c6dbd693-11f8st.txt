@@ -1,0 +1,33 @@
+Transitioning from a Conversation to Product Strategy: How to Prioritize and Align your Team
+
+In a recent conversation between two professionals, the topic of product leadership and strategy was discussed. The conversation highlighted the challenges and doubts that arise when transitioning into a product role and the need for a clear strategy and prioritization process. This blog will explore the key takeaways from the conversation and offer insights into how product leaders can navigate these challenges.
+
+The conversation began with one participant expressing their concerns about their role as a product director and feeling a sense of imposter syndrome. They shared their background in Tesco and how they had developed operational and practical skills over the years. However, as Tesco moved towards becoming a more product-led organization, they felt the need to upskill themselves and better understand product methodologies and principles.
+
+The other participant, an experienced product leader, reassured them that nobody is born into the product role and that their operational background actually puts them in a great position. They emphasized that the skills and mindset required for each level of product leadership are different and that the transition from an operational background is not a disadvantage.
+
+The conversation then shifted to the importance of having a clear strategy and alignment within the team. The product leader explained that building teams that are focused on the business rather than just the product is crucial. They shared examples of product teams that are disconnected from the business objectives and how it affects the overall strategy.
+
+To address this, they suggested creating a KPI graph, which is a shared understanding of how different key performance indicators (KPIs) of the organization and product are interconnected. This graph helps prioritize initiatives and ensures that everyone is aligned towards a common objective. The product leader emphasized the need for a rational and data-driven decision-making process, rather than relying on individual preferences or emotions.
+
+They also highlighted the importance of having a clear North Star metric or goal and using it as a filter for prioritization. The North Star metric acts as a guideline for the team and helps them understand how their initiatives contribute to the overall strategy. By using this framework, discussions become more focused and objective, making prioritization easier and more pleasant.
+
+The conversation concluded with the product leader acknowledging that finding the right balance between business objectives and individual product desires can be challenging. As the organization scales and more decisions are made at lower levels, it becomes crucial for everyone to understand the importance of delivering against overarching KPIs.
+
+In terms of resources, the product leader agreed to share some materials but also emphasized that adapting them to the specific needs of the team and business is crucial. The core principle is to build a process that makes the decision-making process easier and more objective, ensuring alignment and prioritization.
+
+Based on this conversation, there are a few key takeaways for product leaders:
+
+1. Embrace your background: Coming from an operational background can be an advantage in product leadership. The ability to see through the lens of the customer's problem, rather than the solution, is a valuable skill.
+
+2. Understand the different levels of product leadership: Recognize that the skills required at each level of product leadership are different. Instead of feeling overwhelmed, focus on developing the skills needed for your current role and continue learning and adapting as you progress.
+
+3. Build teams focused on the business: Ensure that your product teams are aligned with the business objectives and understand their role in contributing to the organization's goals. Use frameworks like the KPI graph to align everyone towards a common objective.
+
+4. Prioritize with a clear strategy: Develop a clear product strategy that defines the personas, value proposition, and main problems to solve. Use this strategy as a guide when prioritizing initiatives and making decisions.
+
+5. Use a data-driven decision-making process: Instead of relying on individual preferences or emotions, use data and clear metrics to guide decision-making. This will help in rational discussions and avoid bias or personal preferences.
+
+6. Adapt resources to your needs: While resources and frameworks can be helpful, adapt them to your specific team and business context. Find what works best for you and ensure that it aligns with your overall strategy and goals.
+
+In conclusion, the conversation highlighted the importance of having a clear product strategy and alignment within the team. It emphasized the need for product leaders to prioritize initiatives based on their impact on business objectives and to foster a data-driven decision-making process. By doing so, product leaders can navigate the challenges of transitioning into the role and ensure the success of their products and teams.

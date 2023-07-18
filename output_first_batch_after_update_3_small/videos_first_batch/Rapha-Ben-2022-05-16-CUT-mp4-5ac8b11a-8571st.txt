@@ -1,0 +1,25 @@
+Title: Building a Super App: Transforming a Traditional Restaurant Chain into a Tech Powerhouse
+
+Introduction:
+In this blog post, we will delve into a fascinating conversation between two individuals discussing the journey of a traditional restaurant chain, Tim Hortons, to become a tech-savvy player in the market. The main focus of the conversation is to understand the company's overall direction, challenges faced, and the future roadmap. We will explore the background of the company, its current objectives, and the hurdles encountered along the way. The conversation also sheds light on the importance of team alignment, goal setting, and the role of metrics in decision-making. Join us as we dive deeper into the transformation of Tim Hortons into a super app.
+
+Context and Background:
+Tim Hortons, founded in 1964, is the largest restaurant chain in Canada, offering coffee, breakfast, sandwiches, as well as lunch and dinner options. Despite being an old and well-established company, Tim Hortons now finds itself under the ownership of RBI Restaurant Brands International, a young company with a startup mindset. This change in ownership has brought in a fresh approach to the company, aiming to leverage its brand loyalty and digital platform to expand the business beyond traditional restaurant offerings.
+
+Building a Super App:
+To achieve its growth ambitions, Tim Hortons has set its sights on creating a super app similar to Grab or Rappi. The company believes that by offering additional services unrelated to the core restaurant business, they can provide even more value to their customers and become the go-to platform for their needs. With a well-used app in Canada and a strong brand reputation, Tim Hortons is well-positioned to embark on this new journey.
+
+Challenges Faced:
+One of the main challenges highlighted in the conversation is the need to hire a dedicated engineering and design team. Though currently working with contractors, Tim Hortons recognizes the importance of building an in-house team for long-term success. However, the HR department's hiring process and the company's traditional approach to recruitment present roadblocks in attracting top tech talent. The conversation emphasizes the need to adopt new strategies for hiring and talent acquisition, including exploring non-traditional avenues and enhancing the user experience of the job search process.
+
+Roadmap Prioritization:
+The conversation sheds light on how different teams within Tim Hortons approach roadmap prioritization. The team responsible for day-to-day releases utilizes a framework based on effort versus impact to evaluate potential features. They conduct user testing and collaborate closely with engineering teams to assess feasibility. On the other hand, the team working on larger initiatives focuses on aligning goals with partner services, engineering progress, and product definition. The key to effectiveness lies in maintaining alignment with high-level objectives while continuously refining and iterating on the roadmap.
+
+Goal Alignment and Metrics:
+The conversation touches upon the importance of aligning goals and objectives across teams. While Tim Hortons currently uses MBOs (Management by Objectives), there is a realization that the objectives need to be more focused on growth metrics rather than delivery-focused targets. The company is actively seeking to reframe the goal-setting process to emphasize engagement, usage, Net Promoter Scores (NPS), and other key metrics. This shift will enable the team to have a clearer understanding of what they are trying to achieve and enhance decision-making processes.
+
+Main Barriers and Next Steps:
+The conversation concludes with a discussion on identifying the most significant barrier for Tim Hortons at the moment. While it is not immediately apparent, further reflection and analysis will help shed light on this challenge. The individual involved in the conversation expresses a willingness to prepare a detailed analysis of the core problem and share it ahead of the next session to facilitate a productive discussion. This highlights the importance of ongoing evaluation, reflection, and proactive problem-solving to overcome barriers and drive progress.
+
+Conclusion:
+The conversation analyzed in this blog post provides valuable insights into the transformation journey of Tim Hortons from a traditional restaurant chain to a tech-driven super app. It highlights the importance of aligning goals, adopting new hiring strategies, prioritizing roadmaps, and using metrics for decision-making. Tim Hortons' commitment to embracing change and investing in its digital platform positions the company well for future growth. By understanding and addressing challenges head-on, Tim Hortons is on its way to becoming a tech powerhouse in the Canadian market.

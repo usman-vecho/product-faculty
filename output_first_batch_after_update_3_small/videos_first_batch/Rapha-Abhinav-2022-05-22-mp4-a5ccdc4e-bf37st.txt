@@ -1,0 +1,45 @@
+As a successful dual-sided marketplace, Poshmark faces certain challenges and opportunities that are specific to its platform. In this conversation, we see the speakers discussing various aspects of Poshmark's operations, including the default sort algorithm, the balance between sharing and algorithm optimization, the importance of active sellers, and the potential for growth in both large and small accounts. Overall, the conversation revolves around the need for a clear product vision and value proposition that aligns with Poshmark's mission.
+
+One of the key points raised in the conversation is the importance of understanding Poshmark's unique value proposition. While the mission of Poshmark is to put people at the heart of commerce and empower everyone to thrive, it is essential to identify what sets Poshmark apart from other buyer-seller marketplaces like Amazon or Etsy. The speakers discuss the idea of creating a seller-friendly marketplace that provides sellers with the tools and control they need to succeed. This focus on empowering sellers, particularly smaller sellers in the long tail, could be a powerful value proposition that differentiates Poshmark.
+
+To develop a clear product vision, the speakers suggest using a KPI graph or KPI tree to understand the interconnections and causality effects between different key performance indicators (KPIs). This graph helps outline how different actions and values in the platform contribute to the overall success of Poshmark. By identifying the core value proposition and the North Star KPI, Poshmark can set a clear direction for its product development and growth strategies.
+
+The conversation also touches on the importance of understanding the perspectives and needs of both buyers and sellers. While it is crucial to gather feedback from customers, it is equally important for product leaders to use their intuition and experience to shape a bold vision. Customers can provide insights, but it is the product leader's responsibility to piece those insights together and formulate a vision that aligns with the company's objectives.
+
+Furthermore, the speakers recognize the complexity of a dual-sided marketplace and the need to consider various factors such as match rate, competition between sellers, and buyer density. Poshmark must strike a balance between optimizing for both buyers and sellers, constantly evolving their product to meet the needs of each audience. This dynamic requires a thoughtful approach to product development and a deep understanding of the unique challenges and opportunities presented by Poshmark's marketplace model.
+
+In conclusion, this conversation highlights the importance of a clear product vision and value proposition for a successful dual-sided marketplace like Poshmark. By understanding the specific needs and desires of both buyers and sellers, Poshmark can create a platform that empowers sellers while delivering a great buyer experience. With a strong product vision in place, Poshmark can continue to innovate and thrive in the ever-evolving e-commerce landscape.
+
+Title: Unveiling the Poshmark Search Algorithm: Optimizing Discoverability and Empowering Sellers
+
+Introduction:
+Poshmark, the popular online fashion marketplace, is renowned for its vibrant community of buyers and sellers. With millions of listings available, finding the perfect item can sometimes be a daunting task. That's where Poshmark's search algorithm comes into play. In this blog post, we'll explore the inner workings of the Poshmark search algorithm and its impact on the platform's ecosystem.
+
+Understanding the Search Algorithm:
+The Poshmark search algorithm is designed to provide users with relevant and personalized search results. At its core, the algorithm utilizes name entity recognition, which allows it to understand search queries and match them with the most suitable listings. But how exactly are these search results ordered?
+
+Timestamp and Sharing Activities:
+Poshmark's search results are influenced by two key factors: the timestamp and sharing activities. The timestamp indicates how recently a listing was shared. Listings that have been recently shared are given higher visibility, as they are more likely to be available and up-to-date.
+
+Sharing activities play a crucial role as well. When a listing is shared by a seller, it increases the listing's visibility and likelihood of being discovered. The algorithm considers both the timestamp and sharing activities to determine the order in which search results are presented to users.
+
+Optimizing the Algorithm:
+Poshmark's team continuously works to optimize the search algorithm to enhance the overall user experience. Through rigorous testing, they have made adjustments and fine-tuned the algorithm to deliver even better results. In fact, recent algorithm changes resulted in a notable 6% increase in Gross Merchandise Value (GMV), a testament to the team's commitment to driving success for both buyers and sellers.
+
+Default Sort and Seller Impact:
+The default sort on Poshmark incorporates both gestured searches and algorithm optimization. Gestured searches refer to search queries initiated by users, while algorithm optimization takes into account various factors to provide a well-rounded search experience. Currently, gestured searches have a 75% weightage in the default sort, ensuring that user preferences play a significant role in determining search results.
+
+When it comes to sellers, Poshmark strives to strike a balance between empowering smaller sellers to grow and enabling larger sellers to sustain their success. The GMV distribution on the platform reveals that around 60% comes from larger accounts, while approximately 40% is contributed by smaller accounts. Poshmark acknowledges the polarization between large and small sellers and actively works towards creating a level playing field.
+
+Tailoring the Search Product:
+Poshmark recognizes the importance of catering to the diverse needs of its user base. The platform aims to optimize the search product for both enterprise and smaller accounts, ensuring that every seller has an opportunity to succeed. By understanding different seller personas and exploring various user journeys, Poshmark can tailor the search experience to better serve the long tail of sellers and provide them with increased discoverability.
+
+Future Perspectives:
+As Poshmark continues to evolve and refine its search algorithm, it's essential to consider the interconnectedness of different Key Performance Indicators (KPIs) and the causality effects between them. Understanding the perspectives of both buyers and sellers is crucial in striking the right balance and fostering a thriving marketplace.
+
+In Conclusion:
+The Poshmark search algorithm plays a vital role in connecting buyers with the items they desire and empowering sellers to reach a wider audience. Through name entity recognition, timestamp relevance, and sharing activities, Poshmark ensures that search results are tailored and relevant. By continuously optimizing the algorithm and embracing feedback from the community, Poshmark remains committed to delivering an exceptional search experience for its users.
+
+So, whether you're searching for that perfect vintage dress or looking to showcase your unique fashion sense, Poshmark's search algorithm is
+
+ there to help you on your journey. Happy shopping!

@@ -1,0 +1,45 @@
+How to Navigate Challenges with Stakeholders: A Product Manager's Perspective
+
+Introduction
+
+In the world of product management, working with stakeholders is a crucial part of the job. However, it can sometimes be a challenge to align stakeholders with different priorities and decision-making processes. In this blog post, we will explore a conversation between two product managers who discuss the difficulties faced when dealing with stakeholders with varied interests and priorities. We will dive into the specific challenges faced by the product manager, identify potential solutions, and provide insights on how to navigate similar situations.
+
+Setting the Context
+
+The conversation begins with Speaker 1 expressing their concern about the challenges they are facing while working with stakeholders with different prioritization. Speaker 2, who is an experienced product manager, offers their help in understanding the situation better by requesting more context about the organization and the specific stakeholders involved.
+
+Understanding the Organization and Stakeholders
+
+Speaker 1 provides an overview of their company, Seldom, which is building the Amelops platform. The company offers a paid enterprise product, as well as four open-source libraries. The stakeholders involved include five tech leads, the VP of Product (who is Speaker 1's manager), commercial stakeholders responsible for signing new enterprise solutions, marketing, and customer success. However, Speaker 1 mentions the challenge of managing stakeholders with different perspectives on how to do business and product strategy.
+
+Problems with Stakeholder Alignment
+
+Speaker 1 explains that the main issue they face is the time it takes to reach agreements among stakeholders before initiating a project. It can take up to three to four weeks to make a decision, and if new stakeholders provide differing opinions, the process starts over again. This leads to significant delays in project execution.
+
+Speaker 2 further probes Speaker 1 about the reporting structure and the relationship between the tech leads and their manager, the CTO. It becomes evident that there is a peculiar and unusual structure within the organization, where the CTO is part of the tech leads and actively participates in product planning.
+
+Speaker 2 also emphasizes the importance of having dedicated product teams or squads, which are smaller, cross-functional teams responsible for specific product areas. However, Speaker 1 mentions the lack of clarity and definition regarding squads in their organization.
+
+Lack of Resources and Support
+
+Another challenge highlighted by Speaker 1 is the lack of resources, particularly in terms of user experience (UX) personnel. With only one designer and critical under-staffing on the product side, it becomes difficult to deliver quality products and meet stakeholder expectations. Speaker 2 enquires about management's awareness of this issue, and Speaker 1 confirms that everyone in the company is aware of the resource constraints.
+
+Discussion on Product Strategy and OKRs
+
+Moving forward, Speaker 2 dives into the discussion of product strategy and how it is set in the organization. They inquire about OKRs (Objectives and Key Results) and their alignment. Speaker 1 confirms that they work with OKRs and have been actively involved in highlighting what needs to be resolved to their manager. However, Speaker 1 expresses their concern that the product strategy may not pass a reality check and that setting OKRs without considering resource limitations is impractical.
+
+Influence and Authority in the Organization
+
+Speaker 2 explores the dynamics between the CTO and the person leading the product side of the organization. It becomes clear that the CTO may view themselves as the ultimate authority on product decisions, potentially undermining the role of product management. Speaker 2 suggests that the mid-level managers, such as the CTO, may be resisting the transition to squads because it removes some of their authority.
+
+Potential Solutions and Next Steps
+
+Speaker 2 presents two potential paths forward for Speaker 1. The first involves a more tactical approach, where Speaker 1 focuses on delivering one or two projects that are feasible within the current constraints. This approach requires identifying key stakeholders who are collaborative and supportive and rallying their support to gain resources and make an impact.
+
+Alternatively, Speaker 2 suggests exploring options for Speaker 1's next career move. They acknowledge that the current situation may not be conducive to professional growth and recommend considering a healthier work environment.
+
+Conclusion
+
+The conversation between the two product managers sheds light on the challenges faced by a product manager working with stakeholders with different priorities. It highlights the importance of stakeholder alignment, resource availability, and the need for dedicated product teams or squads. Speaker 2's guidance and recommendations provide valuable insights for navigating similar situations.
+
+In conclusion, it is critical for product managers to assess the organization's structure, stakeholder relationships, and resource constraints to determine the best course of action. By strategizing, building influence with key stakeholders, and considering potential career moves, product managers can overcome challenges and foster a positive impact within their organizations.

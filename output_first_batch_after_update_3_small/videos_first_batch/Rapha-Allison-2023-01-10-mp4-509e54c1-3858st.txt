@@ -1,0 +1,23 @@
+In today's blog, we will be discussing a conversation between two individuals who work in the product management industry. The conversation focuses on the challenges and strategies of managing a product team and aligning goals to achieve business objectives. This conversation provides valuable insights for product managers and leaders on structuring their teams, setting goals, and fostering cross-functional collaboration.
+
+The conversation begins with one individual apologizing for a delay caused by a Zoom update. The other person expresses their frustration with using Zoom, highlighting the common issues with video conferencing platforms. The first individual explains that they do not regularly use Zoom at their organization and prefers using Google Meets due to its integration with other Google tools, despite the low video quality.
+
+The second individual agrees with the preference for Google Meets and shares their dislike for Microsoft Teams, indicating that they have experienced using various video conferencing platforms in different organizations.
+
+The conversation then transitions to discussing the first individual's current role and organization. They reveal that they recently joined an e-commerce adjacent organization that focuses on aggregating deals for QSRs and retailers in Canada and the US. The organization has a large user base in Canada but a smaller presence in the US. The individual also mentions that the company recently acquired a Canadian startup, making their team size around 460 employees.
+
+The individual explains their role as a director in the organization and discusses the challenges they face in strategically growing the team and focusing on the most important goals to achieve business objectives. They provide background information on the organization's product history, highlighting the need to prioritize user experience and deal database size for the company's valuation and potential IPO.
+
+The conversation then shifts to discussing the team structure. The first individual mentions that they have three senior product managers reporting to them, along with two product managers and a group of analysts. They also mention that the marketing function, growth, retention, and analytics report into them, which was a recent addition to their role.
+
+The second individual praises the team structure, highlighting the importance of having cross-functional squads aligned with specific goals. They suggest defining key performance indicators (KPIs) for each team and identifying the leading indicators that impact the North Star metric, which refers to the overall business goals. This approach helps prioritize resources and focus on the most significant metrics for achieving business objectives.
+
+The second individual explains the concept of KPI graphs, which involve mapping out different KPIs and their relationships to identify the levers and leading indicators that impact the North Star metric. They emphasize the importance of having a clear strategy and aligning teams and goals accordingly.
+
+The first individual acknowledges the value of this approach and expresses interest in implementing it within their organization. They also mention their involvement in strategic goal setting, but express their desire to have more influence in the future.
+
+The second individual provides further guidance on understanding the impact of marketing efforts and building empathy for the marketing team. They suggest considering the goals of brand awareness campaigns and aligning them with the overall product strategy. This collaborative approach ensures that marketing efforts contribute to the goal of increasing supply and engaging new retailers.
+
+The conversation concludes with the first individual expressing gratitude for the advice and mentorship. They mention their transition into a leadership role and the challenges of managing a large team. The second individual offers their support and willingness to provide ad hoc coaching whenever needed.
+
+In summary, this conversation provides valuable insights into structuring product teams, setting goals, and fostering cross-functional collaboration. The approach of using KPI graphs and aligning goals with the North Star metric helps prioritize resources and focus on the most significant metrics for achieving business objectives. The importance of understanding the impact of marketing efforts and aligning them with the overall product strategy is also highlighted. Product managers and leaders can benefit from the lessons shared in this conversation, enabling them to effectively manage their teams and drive successful product outcomes.
